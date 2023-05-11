@@ -1,7 +1,9 @@
 # CodeJam3
  This is my Discord math bot for codejam3 of Koder's support server.
 &nbsp;
+
 &nbsp;
+
 &nbsp;
 You need to clone/copy this repository and just create a ".env" file.
 
@@ -13,7 +15,9 @@ And run "node bot.js"
 
 It should respond with "Logged in as <your bot name>".
 &nbsp;
+
 &nbsp;
+
 &nbsp;
 Then you can go to Discord and send "!calc 2+2/2".
 
@@ -21,7 +25,9 @@ The bot should respond with "Result: 3"
 
 You will also see "Received message: !calc 2+2/2, Evaluating expression: 2+2/2, Sending result: 3" in your terminal.
 &nbsp;
+
 &nbsp;
+
 &nbsp;
 These are examples ("a" and "b" are random numbers).
 
@@ -50,7 +56,9 @@ It can do many things like:
 - Hyperbolic tangent [tanh(a)]
 - Error function [erf(a)]
 &nbsp;
+
 &nbsp;
+
 &nbsp;
 If you find more or wrong operations/functions, please send me those on Discord.
 
