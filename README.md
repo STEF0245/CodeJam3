@@ -5,6 +5,7 @@
 &nbsp;
 
 &nbsp;
+
 You need to clone/copy this repository and just create a ".env" file.
 
 Add "TOKEN=<your bot token>" in the ".env" file (nothing else no spaces nor characters). 
@@ -19,6 +20,7 @@ It should respond with "Logged in as <your bot name>".
 &nbsp;
 
 &nbsp;
+
 Then you can go to Discord and send "!calc 2+2/2".
 
 The bot should respond with "Result: 3"
@@ -29,6 +31,7 @@ You will also see "Received message: !calc 2+2/2, Evaluating expression: 2+2/2, 
 &nbsp;
 
 &nbsp;
+
 These are examples ("a" and "b" are random numbers).
 
 It can do many things like:
@@ -60,6 +63,7 @@ It can do many things like:
 &nbsp;
 
 &nbsp;
+
 If you find more or wrong operations/functions, please send me those on Discord.
 
 Contact me: https://discord.com/users/786883042353479732
