@@ -40,4 +40,5 @@ It can do many things like:
 - Error function [erf(a)]
 
 If you find more or wrong operations/functions, please send me those on Discord.
+
 Contact me: https://discord.com/users/786883042353479732
