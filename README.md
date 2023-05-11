@@ -6,13 +6,13 @@
 
 You need to clone/copy this repository and just create a ".env" file.
 
-Add "TOKEN=<your bot token>" in the ".env" file (nothing else no spaces nor characters). 
+Add "TOKEN={your bot token}" in the ".env" file (nothing else no spaces nor characters). 
 
 Then run "npm install discord.js dotenv mathjs", wait a few seconds.
 
 And run "node bot.js"
 
-It should respond with "Logged in as <your bot name>".
+It should respond with "Logged in as {your bot name}".
 &nbsp;
 
 &nbsp;
